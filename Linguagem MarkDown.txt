@@ -1,0 +1,7 @@
+Documento com a linguagem MarkDown:
+
+1. Negrito
+ - dois asteriscos ou dois underlines (** ou __)
+
+2. Itálico
+  - um arterisco ou um underline (* ou _)
