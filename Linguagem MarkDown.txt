@@ -5,3 +5,49 @@ Documento com a linguagem MarkDown:
 
 2. Itálico
   - um arterisco ou um underline (* ou _)
+
+3. Riscado
+ - um til (~)
+
+4. Títulos
+ - #: h1
+ - ##: h2
+ - ###: h3
+
+5. Linha
+ - três traços ou três asteriscos (--- ou ***)
+
+6. Listas
+ a) lista numerada: número + ponto (1.; 2.; 3.)
+    - se adicionar espaço, cria um subitem de item da lista
+ b) lista demarcada: um asterisco ou traço (* ou -)
+   - se adicionar espaço, cria um subitem de item da lista
+ c) lista de tarefas:  traço + colchetes com espaço (-[ ])
+
+7. Imagens
+ - ![descricao](url)
+
+8. Link
+ -[descricao](url)
+
+9. Tabela
+   Num | Nome | Nota
+   ---|---|---
+   1 | Leo | 8.5
+   2 | Camila | 9
+
+10. Comando
+ - entre crases (`document.getElementById()`)
+
+11. Codigo
+ - entre tres crases (``` code ```)
+
+12. Emojis
+ - entre dois pontos (:emojiX:)
+
+13. Marcar outra pessoa
+ - @ (@fulano)
+
+14. Criar uma citacao (quote)
+ - sinal de maior (> texto que vai ser citado)
+ 
